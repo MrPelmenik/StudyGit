@@ -41,6 +41,58 @@
           "RowNumber": 0,
           "RowSpan": 1,
           "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
+          "NameGuid": "4a67ecb7-598f-47e5-bd5a-99d65eb6e1d1",
+          "Name": "Number",
+          "ColumnNumber": 0,
+          "ColumnSpan": 1,
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.NumericEditorToIntAndDoubleBinder",
+          "ParentGuid": "14c32fe8-aa3e-4d84-8c7e-5a2b3959780c",
+          "PropertyGuid": "603d758a-458d-444c-981f-bc77902fa7ef",
+          "RowNumber": 1,
+          "RowSpan": 1,
+          "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
+          "NameGuid": "ea7e9fbb-45e2-4841-9c4d-136db4aa0253",
+          "Name": "Description",
+          "ColumnNumber": 0,
+          "ColumnSpan": 1,
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.StringEditorToStringBinder",
+          "ParentGuid": "14c32fe8-aa3e-4d84-8c7e-5a2b3959780c",
+          "PropertyGuid": "16941fd5-dc7d-4b81-9d0f-ed3a5cf9cc01",
+          "RowNumber": 2,
+          "RowSpan": 1,
+          "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
+          "NameGuid": "9b880f10-8105-44ee-a9b1-59967afa413e",
+          "Name": "Responsible",
+          "ColumnNumber": 0,
+          "ColumnSpan": 1,
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DropDownEditorToNavigationBinder",
+          "ParentGuid": "14c32fe8-aa3e-4d84-8c7e-5a2b3959780c",
+          "PropertyGuid": "21d415da-dd76-4ab8-a115-7d73d99daeab",
+          "RowNumber": 4,
+          "RowSpan": 1,
+          "Settings": []
+        },
+        {
+          "$type": "Sungero.Metadata.ControlMetadata, Sungero.Metadata",
+          "NameGuid": "c6b07773-ce9e-44a1-8ce2-4e90240673da",
+          "Name": "CreatedDate",
+          "ColumnNumber": 0,
+          "ColumnSpan": 1,
+          "DataBinderTypeName": "Sungero.Presentation.CommonDataBinders.DateTimeEditorToDateTimeBinder",
+          "ParentGuid": "14c32fe8-aa3e-4d84-8c7e-5a2b3959780c",
+          "PropertyGuid": "d226ac32-d1f5-41c3-9c6c-fd17d9f50ee5",
+          "RowNumber": 3,
+          "RowSpan": 1,
+          "Settings": []
         }
       ]
     }
